@@ -1,0 +1,3 @@
+[submodule "Navigation-Bracelet-EmbeddedM"]
+	path = Navigation-Bracelet-EmbeddedM
+	url = https://github.com/ghapanda/Navigation-Bracelet-EmbeddedML.git
